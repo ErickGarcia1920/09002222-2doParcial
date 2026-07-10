@@ -1,3 +1,7 @@
+# Estudiante
+Nombre: Erick Josue Garcia Solares
+Carnet: 0900-22-22
+
 # simple-java-maven-app
 
 This repository is for the
